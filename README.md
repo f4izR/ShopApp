@@ -38,6 +38,6 @@ npm install
 ```bash
 npx expo start
 ```
-4. Configure your own Firebase project in firebaseConfig.js
+4. Configure your own Firebase project in [`firebaseConfig.js`](./firebaseConfig.js)
 
-Made with ❤️ by Faiz
+
