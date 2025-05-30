@@ -68,5 +68,6 @@ export default function App() {
         <Stack.Screen name="AdminDashboard" component={AdminDashboard} />
       </Stack.Navigator>
     </NavigationContainer>
+// hello faiz bhai kesy ho
   );
 }
