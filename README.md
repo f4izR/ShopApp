@@ -28,3 +28,16 @@ A React Native e-commerce app built with Expo, using the FakeStore API for produ
 ```bash
 git clone https://github.com/f4izR/ShopApp.git
 cd ShopApp
+```
+2. Install dependencies:
+
+```bash
+npm install
+```
+3. Start the app:
+```bash
+npx expo start
+```
+4. Configure your own Firebase project in firebaseConfig.js
+
+Made with ❤️ by Faiz
